@@ -8,7 +8,7 @@ Can't decide where to eat?
 No worries, I'm here to help.
 """)
 
-print("Just type your choices to the quetion below and press enter😉\n")
+print("Just type your choices to the question below and press enter😉\n")
 
 choice_string = input("Tell me some restaurants that you like separated by a comma.\n")
 choices = choice_string.split(", ")
